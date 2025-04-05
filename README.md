@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Full Stack Web Development
 - 🌱 I’m currently learning Spring Boot, Angular, and lots more
 - 👯 I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me: [rachitbodhare@gmail.com](https://www.linkedin.com/in/rachit-bodhare/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rachit-bodhare/)
 - ⚡ Fun fact: I love learning new tech-related stuff
